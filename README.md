@@ -2,6 +2,7 @@ JsonSchemaValidatorBundle
 ============================
 
 [![tests](https://github.com/nayzo/json-schema-validator-bundle/actions/workflows/tests.yaml/badge.svg)](https://github.com/nayzo/json-schema-validator-bundle/actions/workflows/tests.yaml)
+[![Latest Stable Version](https://poser.pugx.org/nayzo/json-schema-validator-bundle/v/stable)](https://packagist.org/packages/nayzo/json-schema-validator-bundle)
 
 The **JsonSchemaValidatorBundle** is a Symfony bundle that validate request payload and response with Json Schema for PSR7 & PSR17.
 
